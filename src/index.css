@@ -20,6 +20,16 @@ code {
   background-color: #005745 !important;
 }
 
+.fc-day-sat {
+  color: blue;
+}
+.fc-day-sun {
+  color: red;
+}
+.fc-day-holiday {
+  color: red;
+}
+
 @media (max-width: 768px) {
   .fc .fc-toolbar.fc-header-toolbar {
     display: block;
