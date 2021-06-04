@@ -25,6 +25,7 @@ function FullCalendarApp() {
     <div className="App">
       <FullCalendar
         nowIndicator
+        height="100vh"
         plugins={[dayGridPlugin, timeGridPlugin, interactionPlugin]}
         customButtons={{
           new: {
