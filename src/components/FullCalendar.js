@@ -17,7 +17,7 @@ const events = [
     start: "2021-06-14T13:30:00",
     end: "2021-06-14T18:30:00",
   },
-  { id: 3, title: "event 3", start: "2021-06-12", end: "2021-06-15" },
+  { id: 3, title: "event 3", start: "2021-06-12", end: "2021-06-18" },
 ];
 
 function FullCalendarApp() {
