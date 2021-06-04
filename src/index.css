@@ -16,27 +16,6 @@ code {
   padding: 10px;
 }
 
-.App button {
-  background-color: #005745 !important;
-}
-
-.fc-day-sat {
-  color: blue;
-}
-.fc-day-sun {
-  color: red;
-}
-.fc-day-holiday {
-  color: red;
-}
-
-@media (max-width: 768px) {
-  .fc .fc-toolbar.fc-header-toolbar {
-    display: block;
-    text-align: center;
-  }
-
-  .fc-header-toolbar .fc-toolbar-chunk {
-    display: block;
-  }
+.fc {
+  max-width: 1000px;
 }
